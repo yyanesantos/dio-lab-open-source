@@ -10,10 +10,9 @@ Atual estudante de Engenharia de Computação em busca de mais conhecimento e ex
 
 - ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-- ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite
-)
 - ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 - ![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-000?style=for-the-badge&logo=DataAnalysis)
+- ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift)
 
 
 ## GitHub Stats
